@@ -52,7 +52,7 @@ An Excel Power Pivot data model was created using multiple Olist tables.
 
 The tables were connected through relationships to enable analysis across orders, customers, products, sellers, payments, reviews, and other related data.
 ## Dashboard
-<img src="screenshots/dashboard.png" width="100%">
+<img src="screenshots/dash board.png" width="100%">
 The project includes an interactive Excel dashboard with KPIs, charts, PivotTables, and slicers for exploring e-commerce performance.
 ## Key Skills Demonstrated
 
