@@ -69,8 +69,6 @@ E-Commerce Analytics
 ## Repository Structure
 ```text
 olist-ecommerce-sales-analysis/
-│
-├── Olist_Ecommerce_Analysis.xlsx
 ├── screenshots/
 │   ├── dashboard.png
 │   └── data_model.png
